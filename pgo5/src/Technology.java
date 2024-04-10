@@ -1,0 +1,2 @@
+ class Technology extends Employee {
+}
